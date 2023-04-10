@@ -1,0 +1,16 @@
+.\main.o: main.c
+.\main.o: E:\Amr\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\main.o: E:\Amr\Keil\ARM\CMSIS\Include\core_cm4.h
+.\main.o: E:\Amr\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: E:\Amr\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\main.o: E:\Amr\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\main.o: E:\Amr\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\main.o: E:\Amr\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\main.o: LED_Switches_Func.h
+.\main.o: LCD_func.h
+.\main.o: Calculator_Func.h
+.\main.o: KeyPad.h
+.\main.o: E:\Amr\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: E:\Amr\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\main.o: E:\Amr\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: E:\Amr\Keil\ARM\ARMCC\bin\..\include\math.h
